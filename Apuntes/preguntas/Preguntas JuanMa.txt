@@ -1,0 +1,1 @@
+Preguntas JuanMa. Como se establece el acceso al aula virtual, como se dan los accesos a los alumnos incluidos en este sistema de formación? .¿Qué perfil se encarga de asignar a cada sujeto de la formación el acceso al aula virtual, se le facilita Usuario/contraseña para acceder al sistema?¿Tendría cada alumno la posibilidad de cambiar la contraseña asociada al usuario dado?

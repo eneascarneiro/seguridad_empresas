@@ -1,0 +1,30 @@
+- ¿Tienen alguna forma de backup? ¿en dispositivos de almacenamiento externo? ¿en la nube? ¿se almacenan físicamente en otra ubicación geográfica? ¿cada cuánto tiempo se hace el backup? ¿es incremental? ¿siguen algún método para recuperar información en caso de pérdida? ¿qué método se aplica para crear el backup?
+
+- ¿El SEPE accede de alguna manera a los datos de la academia o es la academia la que envía los datos al SEPE? ¿existen certificados electrónicos asociados a la empres, específicos para el envío seguro de documentos? ¿hay un responsable de envío de datos firmados digitalmente o son varias las personas que lo pueden hacer¿, si son varias ¿cada una tiene su propio certificado o se usa uno común de la empresa?
+
+- Salvaguardar la información condifencial de los alumnos y profesores.
+  A parte proveedores (telefónica, proveedores de toner, el estado SEPE, ).
+  
+- ¿Cómo hace la gestión de usuario? ¿Cómo es el flujo de dar de alta un usuario en el sistema? ¿se registra en BBDD, en Excel, en carpetas/ficheros?
+
+- ¿Crean fichas de alumnos?
+
+- ¿Qué departamentos hay? ¿qué perfiles profesionales hay en la empresa? ¿diagrama de cargos? ¿responsabilidades de cada cargo?
+
+- ¿En qué área se va a pasar la ISO? ¿sólo para cursos de formación? ¿también para cursos de conducir?
+
+- ¿Tienen mapas de las redes? ¿con qué frecuencia se formatean cada PC? ¿hay antivirus, se actualiza periódicamente? ¿hay métodos para remaquetar los equipos? ¿se ejecutan las actualizaciones de sistema operativo?
+
+- ¿Tienen dos redes separadas, una de alumnos y otra para la oficina? 
+
+- Cuando un alumno termina/deja un curso ¿qué se hacen con sus datos?, ¿se conservan los datos un determinado tiempo, cuánto?
+
+Otras cuestiones que van saliendo para preguntar a la Autoescuela Calderón:
+
+- ¿El personal de la academia tiene posibilidad de teletrabajar? ¿disponen de equipos portátiles proporcionados por la empresa? ¿existen VPN para conexión desde casa?
+
+- Destrucción/reciclado de equipos informáticos obsoletos (ordenadores, discos duros, tarjetas de memoria, pen-drive, impresoras...).
+
+- Destrucción/reciclado de documentación impresa y soportes digitales (CD, DVD).
+
+- En la adquisición de equipos de segunda mano/nuevos ¿hay un método de maquetación - instalación de software, antivirus, configuración de seguridad? ¿hay renting de equipos?, en caso afirmativo ¿se formatean a bajo nivel con el proceso necesario antes de devolver los equipos?
