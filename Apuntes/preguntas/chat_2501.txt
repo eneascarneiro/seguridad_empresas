@@ -1,0 +1,28 @@
+https://www.howtogeek.com/336775/how-to-enable-and-use-windows-10s-built-in-ssh-commands/#:~:text=The%20SSH%20client%20is%20a,the%20list%20of%20installed%20features.
+From Raul Ludeña to Everyone 04:32 PM
+Install OpenSSH on Windows 10 (via PowerShell)PS C:\> Add-WindowsCapability -Online -Name OpenSSH.Client*
+From Raul Ludeña to Everyone 04:52 PM
+https://docs.microsoft.com/es-es/windows-server/administration/openssh/openssh_install_firstuse
+Get-WindowsCapability -Online | Where-Object Name -like 'OpenSSH*'
+From Me to Everyone 04:59 PM
+Get-WindowsCapability -Online | Where-Object Name -like 'OpenSSH*'
+Add-WindowsCapability -Online -Name OpenSSH.Client~~~~0.0.1.0
+Get-WindowsCapability -Online | Where-Object Name -like 'OpenSSH*'
+https://www.putty.org/
+From Me to Everyone 05:56 PM
+https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2
+From david checa to Everyone 06:16 PM
+https://desarrolloweb.com/manuales/administracion-servidores-linux.html
+From Me to Everyone 06:22 PM
+cat .\josemanuela.pub | ssh josemanuela@192.168.1.130 "cat >> /home/josemanuela/.ssh/authorized_keys"
+From Me to Everyone 06:46 PM
+C:\Users\josemanuela\.ssh
+From Me to Everyone 06:58 PM
+ssh-keygen
+ssh-keygen
+From Mihail Rumenov to Everyone 07:11 PM
+no se me muestra la pantalla
+From JuanMa Redondo to Everyone 07:15 PM
+Por favor, si podéis guardar el chat de hoy, para mandármelo, gracias
+From Me to Everyone 07:27 PM
+/etc/ssh/sshd_config
