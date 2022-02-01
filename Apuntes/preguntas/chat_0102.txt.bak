@@ -1,0 +1,24 @@
+From david checa to Everyone 03:53 PM
+https://fwhibbit.es/gns3-montando-el-laboratorio-con-sophos-utm-home-y-cumulus-linux
+http://www.adminso.es/recursos/Proyectos/PFM/2013_14/PFM_Aprende_GNS/Proyecto_Aprende_a_emular_redes_cisco_con_GNS3.pdf
+From Me to Everyone 04:21 PM
+https://1drv.ms/u/s!AmC8VhAUOUsLi0_QKSQKKDOLIq99?e=Ngthf6
+From Me to Everyone 05:29 PM
+https://www.digicert.com/es/instalar-certificado-ssl-apache.htm
+From Fernando to Everyone 05:59 PM
+https://www.drivemeca.com/ipfire-firewall-review/
+From Me to Everyone 06:05 PM
+https://www.xn--linuxenespaol-skb.com/tutoriales/crear-certificado-ssl-autofirmado-openssl/
+From Me to Everyone 06:16 PM
+systemctl status apache2
+From Me to Everyone 06:27 PM
+<body>    <div id="una capa">      <h1>Hola mundo!</h1>      <p>Este es un ejemplo del uso de HTML para crear un documento web que nuestro navegador es capaz de interpretar.</p>    </div>    </body>
+<html><head>    <title>Mi primer WEB</title>  </head>  <body>    <div id="una capa">      <h1>Hola mundo!</h1>      <p>Este es un ejemplo del uso de HTML para crear un documento web que nuestro navegador es capaz de interpretar.</p>    </div>    </body></html>
+https://codepen.io/emanuel-d-rodriguez-bejarano/pen/mQNKer
+From Me to Everyone 06:59 PM
+openssl req -x509 -sha256 -newkey rsa: 2048 -keyout certificate.key -out certificate.crt -days 1024 -nodes
+From Me to Everyone 07:28 PM
+sudo cat /etc/apache2/sites-enabled/000-default.conf
+sudo vi /etc/apache2/sites-enabled/000-default.conf
+From Me to Everyone 07:48 PM
+ServerName MiPrerra.com        ServerAdmin webmaster@localhost        DocumentRoot /var/www/html        SSLEngine on        SSLCipherSuite ALL:!ADH:!EXPORT56:RC4+RSA:+HIGH:+MEDIUM:+LOW:+SSLv2:+EXP:+eNULL        SSLCertificateFile /etc/ssl/certificate.crt        SSLCertificateKeyFile /etc/ssl/certificate.key        <Directory /var/www/html>                Options -Indexes +FollowSymLinks                AllowOverride All        </Directory>        LogLevel warn

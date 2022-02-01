@@ -19,6 +19,313 @@ From Me to Everyone 06:59 PM
 openssl req -x509 -sha256 -newkey rsa: 2048 -keyout certificate.key -out certificate.crt -days 1024 -nodes
 From Me to Everyone 07:28 PM
 sudo cat /etc/apache2/sites-enabled/000-default.conf
+
+comandos linux ejecutados
+
+ 1  ifconnfig
+    2  ifconfig
+    3  ping 192.168.1.1
+    4  ifconfig
+    5  arch
+    6  dmidecode -q
+    7  sudo dmidecode -q
+    8  cat /proc/cpuinfo 
+    9  history
+   10  pwd
+   11  history >> comandos_24012022.txt
+   12  cat comandos_24012022.txt 
+   13  cat /proc/meminfo 
+   14  df -k
+   15  df -k .
+   16  ps
+   17  ps -ef
+   18  ps -ef |grep gnome
+   19  ps -ef |grep gnome bus
+   20  ps -ef |grep gnome |grep bus
+   21  top
+   22  netstat
+   23  netstat |more
+   24  history
+   25  iptables
+   26  iptables -h
+   27  history
+   28  cd /etc/
+   29  ls
+   30  cd -
+   31  ls
+   32  ls -lrt
+   33  ls -la
+   34  ls .ssh
+   35  pwd
+   36  cd Documents/
+   37  ls
+   38  pwd
+   39  ls
+   40  mkdir dira dirb
+   41  ls
+   42  history >> ./dira/history.txt
+   43  ls dira
+   44  cat ./dira/history.txt 
+   45  cat ./dira/history.txt |grep net
+   46  cat ./dira/history.txt |grep ls
+   47  cat ./dira/history.txt |grep a
+   48  ps -ef |a
+   49  ps -ef |grep a
+   50  cat ./dira/history.txt 
+   51  history |grep ls  >> ./dira/history_ls.txt
+   52  cat ./dira/history_ls.txt 
+   53  ls
+   54  mv dira directorioa
+   55  ls
+   56  mkdir directorioa/childa
+   57  ls directorioa/
+   58  cd -
+   59  pwd
+   60  ls
+   61  cd Documents/
+   62  ls
+   63  ls directorioa/
+   64  cd ..
+   65  find -name history.txt
+   66  cd /
+   67  pwd
+   68  find -name history.txt
+   69  cd /home/
+   70  find -name history.txt
+   71  sudo find -name history.txt
+   72  find -h 
+   73  find  
+   74  cd ubuntu/
+   75  cd Documents/
+   76  ls
+   77  ls directorioa/
+   78  mv directorioa/history_ls.txt directorioa/childa/
+   79  ls directorioa/
+   80  ls directorioa/childa/
+   81  rmdir directorioa/childa/
+   82  rm -rl directorioa/childa/
+   83  rm -r directorioa/childa/
+   84  ls
+   85  ls directorioa/
+   86  cp directorioa/history.txt directorioa/h1.txt
+   87  ls 
+   88  ls directorioa/
+   89  ls -lrt
+   90  ls -lrt directorioa/
+   91  chmod 555 directorioa/h1.txt 
+   92  ls -lrt directorioa/
+   93  chmod 5555 directorioa/h1.txt 
+   94  ls -lrt directorioa/
+   95  chmod 777 directorioa/h1.txt 
+   96  ls -lrt directorioa/
+   97  chmod 333 directorioa/h1.txt 
+   98  ls -lrt directorioa/
+   99  chmod 7333 directorioa/h1.txt 
+  100  ls -lrt directorioa/
+  101  chmod =r directorioa/h1.txt 
+  102  ls -lrt directorioa/
+  103  chmod g+x o+x directorioa/h1.txt 
+  104  chmod g+x,o+x directorioa/h1.txt 
+  105  ls -lrt directorioa/
+  106  chmod u+x directorioa/h1.txt 
+  107  ls -lrt directorioa/
+  108  chmod 000 directorioa/h1.txt 
+  109  ls -lrt directorioa/
+  110  rm directorioa/h1.txt 
+  111  ls -lrt directorioa/
+  112  cp directorioa/history.txt directorioa/h1.txt
+  113  ls directorioa/
+  114  cp directorioa/history.txt directorioa/.h2.txt
+  115  ls directorioa/
+  116  ls -la directorioa/
+  117  ls
+  118  mv directorioa/history.txt directorioa/.history.txt
+  119  ls directorioa/
+  120  ls -la directorioa/
+  121  vi .oculto.txt
+  122  ls -la directorioa/
+  123  ls -ls
+  124  ls -la
+  125  mv .oculto.txt directorioa/
+  126  ls -la directorioa/
+  127  ls
+  128  mv directorioa/* dirb
+  129  ls -la directorioa/
+  130  mv directorioa/* dirb/
+  131  ls
+  132  mv directorioa/*.* dirb/
+  133  mv directorioa  dirb
+  134  ls
+  135  ls dirb/
+  136  mv dirb/directorioa ..
+  137  ls
+  138  ls dirb/
+  139  cd ..
+  140  ls
+  141  mv directorioa Documents/
+  142  ls
+  143  cd Documents/
+  144  ls
+  145  ls .
+  146  ls ..
+  147  ls /usr/bin
+  148  whereis zip
+  149  cd ..
+  150  ls
+  151  cd Downloads/
+  152  ls
+  153  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  154  ls
+  155  sudo apt install ./google-chrome-stable_current_amd64.deb
+  156  sudo apt update
+  157  sudo apt install apache2
+  158  ifconfig
+  159  ps -ef |grep apache
+  160  cd /var/www/
+  161  ls
+  162  cd html
+  163  ls
+  164  vi index.html 
+  165  sudo vi index.html 
+  166  sudo apt-get install snapd snapd-xdg-open
+  167  sudo snap install notepad-plus-plus
+  168  pwd
+  169  cd Documents/
+  170  ls
+  171  exit
+  172  sudo useradd –m josemanuela
+  173  sudo useradd -m josemanuel
+  174  sudo useradd -m josemanuela
+  175  show users
+  176  cd ..
+  177  ls
+  178  sudo usermod –aG sudo josemanuela
+  179  sudo usermod –aG josemanuela
+  180  sudo usermod -aG josemanuel
+  181  sudo usermod -aG sudo josemanuel
+  182  sudo usermod -aG sudo josemanuela
+  183  sudo passwd josemanuel
+  184  sudo passwd josemanuela
+  185  history
+  186  exit
+  187  ifcongig
+  188  ifconfig
+  189  pwd
+  190  ls
+  191  cd Documents/
+  192  ls
+  193  mkdir dirbb
+  194  cd ..
+  195  ls
+  196  exit
+  197  ifconfig
+  198  sudo su josemanuela
+  199  ls
+  200  pwd
+  201  cd ../josemanuela
+  202  ls
+  203  ls -la
+  204  mkdir .ssh
+  205  pwd
+  206  ls
+  207  ifconfig
+  208  ls ../josemanuela
+  209  ls ../josemanuela/.ssh
+  210  sudo ls ../josemanuela/.ssh
+  211  sudo vi /etc/ssh/ssh_config 
+  212  ifconfig
+  213  sudo vi /etc/ssh/ssh_config 
+  214  cd /etc/ssh
+  215  ls
+  216  sudo ufw
+  217  sudo systemctl status ssh
+  218  sudo systemctl restart
+  219  sudo systemctl stop
+  220  sudo ufw allow ssh
+  221  cd /home/josemanuela/
+  222  ls
+  223  cd .ssh
+  224  sudo cd .ssh
+  225  ls .ssh
+  226  sudo .ssh
+  227  systemctl restart apache2
+  228  systemctl ifconfig
+  229  ifconfig
+  230  systemctl status  ifconfig
+  231  systemctl status apache2
+  232  systemctl stop apache2
+  233  systemctl start apache2
+  234  systemctl stop apache2
+  235  systemctl status apache2
+  236  systemctl start apache2
+  237  systemctl status apache2
+  238  cd /var
+  239  ls
+  240  cd www
+  241  ls
+  242  cd html/
+  243  ls
+  244  sudo cp index.html index_old.html 
+  245  sudo rm index.html 
+  246  vi index.html
+  247  sudo vi index.html
+  248  ls -lrt
+  249  chmod 777 index.html
+  250  ls
+  251  sudo vi index.html
+  252  chmod 777 index.html
+  253  sudo chmod 777 index.html
+  254  ls
+  255  sudo cp index.html miperro.html
+  256  vi miperro.html 
+  257  sudo vi miperro.html 
+  258  cd 
+  259  pwd
+  260  openssl req -x509 -sha256 -newkey rsa: 2048 -keyout certificate.key -out certificate.crt -days 1024 -nodes
+  261  openssl -help
+  262  openssl help
+  263  openssl req -x509 -sha256 -newkey rsa: 2048 -keyout certificate.key -out certificate.crt -days 1024 
+  264  sudo openssl req -x509 -sha256 -newkey rsa: 2048 -keyout certificate.key -out certificate.crt -days 1024 -nodes
+  265  openssl req -x509 -sha256 -newkey rsa: 2048 -keyout certificate.key -out certificate.crt -days 1024 -nodes
+  266  openssl req -x509 -sha256 -newkey rsa:2048 -keyout certificate.key -out certificate.crt -days 1024 -nodes
+  267  ls
+  268  cat certificate.crt
+  269  ls
+  270  cat certificate.key
+  271  ls
+  272  ls -lrt
+  273  whereis ssl.conf
+  274  cd /etc/
+  275  ls
+  276  ls h*
+  277  whereis httpd.conf
+  278  cd ssl
+  279  ls
+  280  cd
+  281  ls
+  282  sudo mv certificate.crt /etc/ssl
+  283  sudo mv certificate.key /etc/ssl
+  284  ls
+  285  ls /etc/ssl
+  286  ls /etc/apache2/sites-enabled/
+  287  sudo cat /etc/apache2/sites-enabled/000-default.conf 
+  288  sudo vi /etc/apache2/sites-enabled/000-default.conf 
+  289  sudo systemctl restart apache2
+  290  sudo systemctl status apache2
+  291  sudo vi /etc/apache2/sites-enabled/000-default.conf 
+  292  sudo a2enmod ssl
+  293  sudo systemctl restart apache2
+  294  sudo systemctl status apache2
+  295  sudo systemctl restart apache2
+  296  sudo systemctl stop apache2
+  297  sudo systemctl start apache2
+  298  sudo systemctl status apache2
+  299  sudo vi /etc/apache2/sites-enabled/000-default.conf 
+  300  sudo systemctl restart apache2
+  301  ls /etc/ssl/
+  302  sudo vi /etc/apache2/sites-enabled/000-default.conf 
+  303  history
+
 sudo vi /etc/apache2/sites-enabled/000-default.conf
 From Me to Everyone 07:48 PM
 ServerName MiPrerra.com        ServerAdmin webmaster@localhost        DocumentRoot /var/www/html        SSLEngine on        SSLCipherSuite ALL:!ADH:!EXPORT56:RC4+RSA:+HIGH:+MEDIUM:+LOW:+SSLv2:+EXP:+eNULL        SSLCertificateFile /etc/ssl/certificate.crt        SSLCertificateKeyFile /etc/ssl/certificate.key        <Directory /var/www/html>                Options -Indexes +FollowSymLinks                AllowOverride All        </Directory>        LogLevel warn
