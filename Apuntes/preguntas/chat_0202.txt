@@ -1,0 +1,81 @@
+Sergio
+¿La norma ISO 27001 requiere un responsable de seguridad de IT? -Si - No
+
+Fernando
+Dentro de la ciberseguridad, ¿cual de las siguientes no es una medida de protección a nivel de empresa?
+a) Software antivirusç
+b) Firewall perimetral de red
+c) Servidor proxy
+d) Implementar en tiempos record.     <---
+
+Mike
+¿Cuantos niveles tiene el modelo OSI?
+
+5
+7
+4
+9
+
+LOana
+¿Cuáles de estos elementos se utilizan por ciberseguridad?
+
+a.- cortafuegos  
+
+b.- servidores intermedios (proxy)
+
+c.- módulos de hardware (HSM) 
+
+d.- gestores de contraseñas
+
+Jose Martin
+a.- Topologías de red Lan, señala cual no es cierta.             
+-Car
+-estrella
+-ring
+-bus
+-malla
+
+Mihail
+Cuál de las siguientes opciones es correcta:
+a)       La normativa ISO/IEC 27001 es una guía estándar
+b)      La normativa ISO/IEC 27002 es una guía estándar
+c)       La normativa ISO/IEC 27001 es un requerimiento estándar
+d)      La normativa ISO/IEC 27001 y 27002 son guías estándar
+ 
+ 
+Que tipo de VPN deberíamos de utilizar par a mejorar la comunicación entre sistemas:
+a)       VPN Proxy
+b)      VPN PPTP
+
+
+
+From Sergio Correia to Everyone 03:18 PM
+bcdedit /set hypervisorlaunchtype off
+http://openaccess.uoc.edu/webapps/o2/handle/10609/52944?mode=full
+From Sergio Correia to Everyone 04:07 PM
+¿La norma ISO 27001 requiere un responsable de seguridad de IT? -Si - No
+From Fernando to Me (Direct Message) 04:20 PM
+Dentro de la ciberseguridad, ¿cual de las siguientes NO es una medida de protección a nivel de empresa?a) Software antivirus.b) Firewall perimetral de red.c) Servidor proxy.d) Implementar en tiempos record.     <---
+From Oscar del Agua to Me (Direct Message) 04:20 PM
+Cuales son las Funciones del marco de trabajo de Ciberseguridad del NIST?
+From david checa to Me (Direct Message) 04:21 PM
+Un switch es el dispositivo digital lógico de interconexión de equipos que opera en la capa de enlace de datos del modelo OSI. usados generalmente como extremos de cables de par trenzado. Verdadero Falso
+From david checa to Me (Direct Message) 04:35 PM
+38. ¿Qué es un switch?a. Un correo publicitariob. Un dispositivo para comunicar varios equipos de una misma red entre sic. Un dispositivo que conecta redes diferentes de ordenadores
+Me to Fernando (Direct Message) 04:47 PM
+https://www.isotools.org/2014/09/23/iso-27001-gestion-entrega-servicios-terceros-planificacion-sistemas/
+Me to Fernando (Direct Message) 05:33 PM
+https://github.com/eneascarneiro/seguridad_empresas
+From Me to Everyone 05:34 PM
+https://github.com/eneascarneiro/seguridad_empresas
+From Me to Everyone 06:42 PM
+http://openaccess.uoc.edu/webapps/o2/handle/10609/52944?mode=full
+From Sergio Correia to Everyone 06:57 PM
+https://github.com/ecriminal/Exploit-Discord-Cache-System-PoC
+https://github.com/0x44F/discord-zeroclick-exploit
+https://github.com/Nhoya/MycroftAI-RCE
+https://blog.malwarebytes.com/exploits-and-vulnerabilities/2022/02/samba-patches-critical-vulnerability-that-allows-remote-code-execution-as-root/
+From david checa to Everyone 07:06 PM
+cuidado con esas cosas ke abris hay veces ke os creis que descargáis algo para vosotros y os estam metiendo un virus
+From Me to Everyone 07:46 PM
+https://securizando.com/ips-e-ids/
